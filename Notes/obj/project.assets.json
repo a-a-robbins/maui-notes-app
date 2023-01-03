@@ -18859,11 +18859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arobbins/Projects/Notes/Notes/Notes.csproj",
+      "projectUniqueName": "/Users/arobbins/Projects/maui-notes-app/Notes/Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "/Users/arobbins/Projects/Notes/Notes/Notes.csproj",
+      "projectPath": "/Users/arobbins/Projects/maui-notes-app/Notes/Notes.csproj",
       "packagesPath": "/Users/arobbins/.nuget/packages/",
-      "outputPath": "/Users/arobbins/Projects/Notes/Notes/obj/",
+      "outputPath": "/Users/arobbins/Projects/maui-notes-app/Notes/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

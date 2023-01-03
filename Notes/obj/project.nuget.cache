@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KzGTpfanAno96RcDPVmhgKhEH34sPTdNbnSUV/5JrVbdO/BuwxZ37DYOiuxZPetEBLTzOzcZgR/4nysAL1F/g==",
+  "dgSpecHash": "v3bzO6ZrGkKy7C2cZzNioaYSgiSvGfHdlTDHN/2vQh9GMMFcDzfMvY25a31wXw/IeZYWWjuXYMxKT3NDQneRqg==",
   "success": true,
-  "projectFilePath": "/Users/arobbins/Projects/Notes/Notes/Notes.csproj",
+  "projectFilePath": "/Users/arobbins/Projects/maui-notes-app/Notes/Notes.csproj",
   "expectedPackageFiles": [
     "/Users/arobbins/.nuget/packages/googlegson/2.9.0.1/googlegson.2.9.0.1.nupkg.sha512",
     "/Users/arobbins/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
